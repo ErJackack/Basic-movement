@@ -1,9 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object1",
-  "spriteId": null,
-  "solid": false,
+  "name": "obj_whiteblock",
+  "spriteId": {
+    "name": "whiteblock",
+    "path": "sprites/whiteblock/whiteblock.yy",
+  },
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

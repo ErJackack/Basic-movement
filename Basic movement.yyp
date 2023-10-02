@@ -4,11 +4,15 @@
   "name": "jack's game",
   "resources": [
     {"id":{"name":"obj_whiteblock","path":"objects/obj_whiteblock/obj_whiteblock.yy",},"order":4,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"obj_erpazzo","path":"objects/obj_erpazzo/obj_erpazzo.yy",},"order":1,},
     {"id":{"name":"erpazzo","path":"sprites/erpazzo/erpazzo.yy",},"order":0,},
-    {"id":{"name":"obj_block2","path":"objects/obj_block2/obj_block2.yy",},"order":2,},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"whiteblock","path":"sprites/whiteblock/whiteblock.yy",},"order":4,},
-    {"id":{"name":"block2","path":"sprites/block2/block2.yy",},"order":1,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

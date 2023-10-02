@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "obj_block2",
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "block2",
+    "path": "sprites/block2/block2.yy",
   },
   "solid": true,
   "visible": true,

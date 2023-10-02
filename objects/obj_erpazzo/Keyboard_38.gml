@@ -3,14 +3,14 @@
 /// @DnDHash : 3687111B
 /// @DnDArgument : "x" "0"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-5"
+/// @DnDArgument : "y" "-4"
 /// @DnDArgument : "y_relative" "1"
 x += 0;
-y += -5;
+y += -4;
 
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 596AD613
-/// @DnDArgument : "code" "/// @description Insert description here$(13_10)// You can write your code in this editor$(13_10)$(13_10)$(13_10)"
-/// @description Insert description here
-// You can write your code in this editor
+/// @DnDHash : 454AA0DA
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "is_walking"
+is_walking = 1;
